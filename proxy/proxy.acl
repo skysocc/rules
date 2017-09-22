@@ -1,8 +1,6 @@
 [bypass_all]
 
 [proxy_list]
-^(localhost)$
-^(XiaoQiang)$
 ^(bbs\.uvwxyz\.xyz)$
 ^(ipv6\.uvwxyz\.xyz)$
 ^(uvwxyz\.xyz)$

@@ -1,8 +1,6 @@
-!1506051515
+!1506052389
 [windows_proxy]
 [c]
-||localhost
-||XiaoQiang
 ||bbs.uvwxyz.xyz
 ||ipv6.uvwxyz.xyz
 ||uvwxyz.xyz
