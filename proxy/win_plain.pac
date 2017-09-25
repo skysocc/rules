@@ -1,4 +1,4 @@
-!1506052389
+!1506311092
 [windows_proxy]
 [c]
 ||bbs.uvwxyz.xyz
@@ -7187,5 +7187,4 @@
 *wangyin.com
 *xiami.com
 *xiami.net
-[k]
-*myip.ipip.net*
+*ipip.net
