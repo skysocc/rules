@@ -1,4 +1,4 @@
-!1507644011
+!1507718611
 [windows_proxy]
 [c]
 ||www.yinyuetai.com
@@ -7184,7 +7184,6 @@
 *xiami.com
 *xiami.net
 *ipip.net
-*211.151.158.155
 *video.sina.com.cn
 *56.com
 *music.sina.com.cn
@@ -7200,6 +7199,7 @@
 *ssports.com
 *ssports.smgbb.cn
 *duomi.com
+*qianqian.com
 *smgbb.cn
 *com.cn
 *pplive.cn
