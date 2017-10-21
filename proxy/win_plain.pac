@@ -1,4 +1,4 @@
-!1508587309
+!1508593183
 [windows_proxy]
 [c]
 ||www.yinyuetai.com
@@ -7222,6 +7222,13 @@
 *plures.net
 *dpool.sina.com.cn
 *plu.cn
+*sohu.com.cn
+*api.tv.itc.cn
+*biz.itc.cn
+*amdc.m.taobao.com
+*wgo.mmstat.com
+*api.m.taobao.com
+*irs01.com
 *smgbb.cn
 *com.cn
 *pplive.cn

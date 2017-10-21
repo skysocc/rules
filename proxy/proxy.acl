@@ -7221,6 +7221,13 @@
 (^|\.)plures\.net$
 (^|\.)dpool\.sina\.com\.cn$
 (^|\.)plu\.cn$
+(^|\.)sohu\.com\.cn$
+(^|\.)api\.tv\.itc\.cn$
+(^|\.)biz\.itc\.cn$
+(^|\.)amdc\.m\.taobao\.com$
+(^|\.)wgo\.mmstat\.com$
+(^|\.)api\.m\.taobao\.com$
+(^|\.)irs01\.com$
 (^|\.)smgbb\.cn$
 (^|\.)com\.cn$
 (^|\.)pplive\.cn$
