@@ -1,4 +1,4 @@
-!1508864034
+!1508866572
 [windows_proxy]
 [c]
 ||www.yinyuetai.com
@@ -201,7 +201,6 @@
 *api.m.taobao.com
 *irs01.com
 *qq.com:80
-*ioma.qq.com
 *uvwxyz.xyz
 *alfredapp.com
 *dxomark.com
