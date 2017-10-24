@@ -1,4 +1,4 @@
-!1508852063
+!1508854154
 [windows_proxy]
 [c]
 ||www.yinyuetai.com
@@ -182,6 +182,24 @@
 *ssports.smgbb.cn
 *duomi.com
 *qianqian.com
+*apilocate.amap.com
+*restapi.amap.com
+*go2map.com
+*baidu.com
+*aixifan.com
+*acfun.cn
+*ykimg.com
+*longzhu.com
+*plures.net
+*dpool.sina.com.cn
+*plu.cn
+*sohu.com.cn
+*api.tv.itc.cn
+*biz.itc.cn
+*amdc.m.taobao.com
+*wgo.mmstat.com
+*api.m.taobao.com
+*irs01.com
 *uvwxyz.xyz
 *alfredapp.com
 *dxomark.com
@@ -254,7 +272,6 @@
 *umsns.com
 *uyunad.com
 *amazonaws.com
-*baidu.com
 *bdimg.com
 *bdstatic.com
 *baidustatic.com
@@ -2675,7 +2692,6 @@
 *gridsum.com
 *growingio.com
 *guomob.com
-*irs01.com
 *jesgoo.com
 *ytbee.cn
 *bjxiaohua.com
@@ -3123,7 +3139,6 @@
 *duapp.com
 *letvstore.com
 *mmarket.com
-*ykimg.com
 *laifeng.com
 *kuaigames.com
 *majorserving.com
