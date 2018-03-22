@@ -1,4 +1,4 @@
-!1516268106
+!1521687798
 ! [windows_proxy]
 ||www.yinyuetai.com^
 ||lixian.vip.xunlei.com^
@@ -311,3 +311,4 @@
 @@||fastso.net^
 @@||github.com^
 @@||wx.tenpay.com^
+@@||msdk.qq.com^
