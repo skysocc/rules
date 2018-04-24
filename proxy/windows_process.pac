@@ -1,0 +1,2 @@
+cloudmusic.exe
+testping.exe
