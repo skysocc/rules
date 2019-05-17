@@ -1,4 +1,4 @@
-!1558082302
+!1558084638
 ! [windows_proxy]
 ||www.yinyuetai.com^
 ||lixian.vip.xunlei.com^
@@ -313,7 +313,6 @@
 @@||github.com^
 @@||wx.tenpay.com^
 @@||msdk.qq.com^
-@@||ip138.com^
 @@||flyso.cc^
 @@||jisu.io^
 !end
