@@ -1,4 +1,4 @@
-#1562743019
+#1562746422
 # android
 [bypass_all]
 
@@ -5248,13 +5248,13 @@
 
 
 [bypass_list]
-(^|\.)skyso.cc$
-(^|\.)fastso.net$
-(^|\.)github.com$
-(^|\.)wx.tenpay.com$
-(^|\.)msdk.qq.com$
-(^|\.)flyso.cc$
-(^|\.)jisu.io$
-(^|\.)google.com$
-(^|\.)facebook.com$
-(^|\.)youtube.com$
+(^|\.)skyso\.cc$
+(^|\.)fastso\.net$
+(^|\.)github\.com$
+(^|\.)wx\.tenpay\.com$
+(^|\.)msdk\.qq\.com$
+(^|\.)flyso\.cc$
+(^|\.)jisu\.io$
+(^|\.)google\.com$
+(^|\.)facebook\.com$
+(^|\.)youtube\.com$
