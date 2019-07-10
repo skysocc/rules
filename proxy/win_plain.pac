@@ -1,4 +1,4 @@
-!1558098166
+!1562743019
 ! [windows_proxy]
 ||www.yinyuetai.com^
 ||lixian.vip.xunlei.com^
@@ -108,7 +108,6 @@
 ||36kr.com^
 ||58.com^
 ||acfun.tv^
-||alipay.com^
 ||alipayobjects.com^
 ||bilibili.com^
 ||blizzard.com^
