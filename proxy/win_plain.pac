@@ -1,4 +1,4 @@
-!1562746422
+!1563940134
 ! [windows_proxy]
 ||www.yinyuetai.com^
 ||lixian.vip.xunlei.com^
@@ -290,6 +290,7 @@
 ||irs01.com^
 ||qq.com:80^
 ||cctv.com^
+||qy.net^
 ||smgbb.cn^
 ||com.cn^
 ||pplive.cn^
