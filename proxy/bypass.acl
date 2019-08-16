@@ -1,0 +1,4 @@
+[bypass_list]
+^(.*\.)?skyso\.cc$
+^(.*\.)?fastso\.net$
+^(.*\.)?github\.com$
