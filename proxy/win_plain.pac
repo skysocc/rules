@@ -1,4 +1,4 @@
-!1563940134
+!1570856867
 ! [windows_proxy]
 ||www.yinyuetai.com^
 ||lixian.vip.xunlei.com^
@@ -318,4 +318,5 @@
 @@||google.com^
 @@||facebook.com^
 @@||youtube.com^
+@@||tiansu.pw^
 !end
