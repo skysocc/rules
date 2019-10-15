@@ -1,4 +1,4 @@
-#1570856867
+#1571113903
 # android
 [bypass_all]
 
@@ -5398,3 +5398,4 @@
 (^|\.)facebook\.com$
 (^|\.)youtube\.com$
 (^|\.)tiansu\.pw$
+(^|\.)apple\.com$
