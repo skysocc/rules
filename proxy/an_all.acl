@@ -1,4 +1,4 @@
-#1571385024
+#1617273460
 # android
 [proxy_all]
 
@@ -34,3 +34,6 @@
 (^|\.)youtube\.com$
 (^|\.)tiansu\.pw$
 (^|\.)apple\.com$
+(^|\.)xwind\.site$
+(^|\.)ixf\.to$
+(^|\.)leiting\.fun$

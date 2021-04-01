@@ -1,4 +1,4 @@
-!1571385024
+!1617273460
 ! [windows_proxy]
 ||www.yinyuetai.com^
 ||lixian.vip.xunlei.com^
@@ -321,4 +321,7 @@
 @@||youtube.com^
 @@||tiansu.pw^
 @@||apple.com^
+@@||xwind.site^
+@@||ixf.to^
+@@||leiting.fun^
 !end
