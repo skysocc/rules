@@ -1,4 +1,4 @@
-!1617273460
+!1617718504
 ! [windows_proxy]
 ||www.yinyuetai.com^
 ||lixian.vip.xunlei.com^
@@ -324,4 +324,7 @@
 @@||xwind.site^
 @@||ixf.to^
 @@||leiting.fun^
+@@||netfly.to^
+@@||laxy.xyz^
+@@||47.74.16.252^
 !end
