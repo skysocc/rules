@@ -1,4 +1,4 @@
-!1641524753
+!1661139163
 ! [windows_proxy]
 ||www.yinyuetai.com^
 ||lixian.vip.xunlei.com^
@@ -296,7 +296,6 @@
 ||com.cn^
 ||pplive.cn^
 ||iask.com^
-||weibo.com^
 ||yinyuetai.com^
 ||kuwo.cn^
 ||cloudcdn.net^
@@ -692,4 +691,5 @@
 @@||chinapay.cn^
 @@||chinapay.com^
 @@||chinapayhongkong.com^
+@@||weibo.com^
 !end

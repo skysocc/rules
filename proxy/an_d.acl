@@ -1,4 +1,4 @@
-#1641524753
+#1661139163
 # android
 [bypass_all]
 
@@ -5786,3 +5786,4 @@
 (^|\.)chinapay\.cn$
 (^|\.)chinapay\.com$
 (^|\.)chinapayhongkong\.com$
+(^|\.)weibo\.com$

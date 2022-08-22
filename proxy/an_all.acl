@@ -1,4 +1,4 @@
-#1641524753
+#1661139163
 # android
 [proxy_all]
 
@@ -404,3 +404,4 @@
 (^|\.)chinapay\.cn$
 (^|\.)chinapay\.com$
 (^|\.)chinapayhongkong\.com$
+(^|\.)weibo\.com$
